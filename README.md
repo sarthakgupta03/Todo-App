@@ -1,4 +1,4 @@
-# Todo Application using ReactJS and Firebase
+# Task Manager using ReactJS and Firebase
 
 -----
 
